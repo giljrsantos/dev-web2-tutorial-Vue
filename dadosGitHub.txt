@@ -1,0 +1,2 @@
+git remote add origin https://github.com/giljrsantos/dev-web2-tutorial-Vue.git
+git push -u origin master
